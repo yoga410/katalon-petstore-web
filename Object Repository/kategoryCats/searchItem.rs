@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchItem</name>
+   <tag></tag>
+   <elementGuidId>1936e987-d973-49aa-a995-79a088fd477d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[name='keyword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[name='keyword']</value>
+      <webElementGuid>b2277f3e-d49a-4056-bfa1-a6d9f8924654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='keyword']</value>
+      <webElementGuid>603eff36-c511-46f5-aabf-1d27d5722612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name='keyword'</value>
+      <webElementGuid>0784e028-e210-4a15-b324-31a79b8c723a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

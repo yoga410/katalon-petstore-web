@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addQuantity</name>
+   <tag></tag>
+   <elementGuidId>e1d798d4-d1f2-4a04-8f4f-30d26d177c51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='EST-16'][count(. | //*[@class = concat(&quot;input[value=&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;]&quot;) and @name = concat(&quot;//input[@name=&quot; , &quot;'&quot; , &quot;EST-16&quot; , &quot;'&quot; , &quot;]&quot;)]) = count(//*[@class = concat(&quot;input[value=&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;]&quot;) and @name = concat(&quot;//input[@name=&quot; , &quot;'&quot; , &quot;EST-16&quot; , &quot;'&quot; , &quot;]&quot;)])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input[value='']</value>
+      <webElementGuid>5bc13dfc-598b-40fb-af3e-a35248388aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='EST-16']</value>
+      <webElementGuid>90d14ab6-342a-4cc2-a1b0-dc21ebe3e27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>//input[@name='EST-16']</value>
+      <webElementGuid>a61fab7c-5175-4142-bbd6-2205982b6fa0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

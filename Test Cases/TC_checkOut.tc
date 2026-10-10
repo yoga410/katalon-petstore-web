@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_checkOut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8f975c0-49f6-4237-a467-225670e3e1a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36a56851-9bb6-4020-86c5-77b7e053caf3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3dd6259-a415-4950-abee-21c659266d10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36a56851-9bb6-4020-86c5-77b7e053caf3</id>
+      <masked>false</masked>
+      <name>search_keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3dd6259-a415-4950-abee-21c659266d10</id>
+      <masked>false</masked>
+      <name>product_id</name>
+   </variable>
+</TestCaseEntity>

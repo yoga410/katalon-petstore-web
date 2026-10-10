@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productId</name>
+   <tag></tag>
+   <elementGuidId>f05fc561-772d-4b55-a9b7-738ed9fa8659</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>a[href='/actions/Catalog.action?viewProduct=&amp;productId=${id}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>a[href='/actions/Catalog.action?viewProduct=&amp;productId=${id}']</value>
+      <webElementGuid>e7c17e97-beb9-4d1d-9c24-d9a9ed80e959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space()='${id}']</value>
+      <webElementGuid>0866961b-2de7-463e-9f15-57a323020076</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

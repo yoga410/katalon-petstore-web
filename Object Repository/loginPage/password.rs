@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>password</name>
+   <tag></tag>
+   <elementGuidId>3661e5bf-4a67-4048-818e-e69b781dfdd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[name='password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='password']</value>
+      <webElementGuid>a5623a76-f864-4290-9954-930c7ce9acb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[name='password']</value>
+      <webElementGuid>af3c7c05-e0a2-4c50-b946-a16ebe4b8fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name=password</value>
+      <webElementGuid>8a302a71-2481-415a-9968-e7c1cb9c2356</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

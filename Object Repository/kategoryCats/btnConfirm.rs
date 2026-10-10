@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnConfirm</name>
+   <tag></tag>
+   <elementGuidId>fec643f9-b324-406d-9333-ed7ae21bdf8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[normalize-space()='Confirm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space()='Confirm']</value>
+      <webElementGuid>ef7e6fe2-6dbf-4f47-a480-837154ca7559</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

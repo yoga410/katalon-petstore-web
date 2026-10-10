@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ItemID</name>
+   <tag></tag>
+   <elementGuidId>bad6a0e0-d548-4076-9fdf-bda7f22bea89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>a[href='/actions/Catalog.action?viewItem=&amp;itemId=${id}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>a[href='/actions/Catalog.action?viewItem=&amp;itemId=${id}']</value>
+      <webElementGuid>f6a3288d-bdba-4cd8-ae6c-54595cba8a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space()='${id}']</value>
+      <webElementGuid>3f93ff9a-b666-4ce7-a1f9-cd9b44b55a89</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

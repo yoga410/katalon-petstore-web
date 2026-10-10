@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonLogin</name>
+   <tag></tag>
+   <elementGuidId>07347c7c-4ddb-48f0-a560-bd58a474d445</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[value='Login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[value='Login']</value>
+      <webElementGuid>6c4b74f4-0087-445b-9c83-a5b79fc9b85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='signon']</value>
+      <webElementGuid>d92dc9d7-1474-4c5a-9d79-4d2f90fb3c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name=&quot;signon&quot;</value>
+      <webElementGuid>e98378a7-9dd8-4734-a0bc-d94839515eb4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

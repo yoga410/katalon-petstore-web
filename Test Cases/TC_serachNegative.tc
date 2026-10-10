@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_serachNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94fe2a05-7d0c-4ecb-9ae2-a2132411bc6a</testCaseGuid>
+</TestCaseEntity>

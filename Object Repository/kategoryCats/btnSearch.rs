@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSearch</name>
+   <tag></tag>
+   <elementGuidId>2b4b1217-fed1-4d9f-864b-ec1a45d86a63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[value='Search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[value='Search']</value>
+      <webElementGuid>862fada6-5901-4aa5-b7ec-8040aec07fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='searchProducts']</value>
+      <webElementGuid>6a80cf10-b77e-46b2-8d2b-8b3cba0baf7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name='searchProducts'</value>
+      <webElementGuid>d8bed32d-321b-41c0-a2cb-1849f4265b1a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

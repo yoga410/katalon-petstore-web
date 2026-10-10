@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnContinue</name>
+   <tag></tag>
+   <elementGuidId>17ab6f51-71ac-4ec9-aebb-e2ed181b9e22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[value='Continue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[value='Continue']</value>
+      <webElementGuid>525c9c3d-44c9-4285-94ad-53e722823db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='newOrder']</value>
+      <webElementGuid>7edc6e72-1a54-41f8-b6a1-9f4d8150b64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>newOrder</value>
+      <webElementGuid>d800adbd-22ad-4efa-b63c-1d073bca6420</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

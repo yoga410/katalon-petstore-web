@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cats</name>
+   <tag></tag>
+   <elementGuidId>4bf775a3-af3f-4fbd-80d0-9334ca38c1b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>img[src='../images/cats_icon.gif']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='../images/cats_icon.gif']</value>
+      <webElementGuid>fe861665-0b80-47ca-8289-9d88c9e57adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>img[src='../images/cats_icon.gif']</value>
+      <webElementGuid>a1a8aaaf-efc2-4fdb-b649-d09c611f5692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>categoryId=CATS</value>
+      <webElementGuid>1d7fe63f-8389-45c7-981f-e9461e684f3e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

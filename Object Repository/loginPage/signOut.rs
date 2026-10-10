@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>signOut</name>
+   <tag></tag>
+   <elementGuidId>16fce33f-8898-4eac-8172-5454f92b2058</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>a[href='/actions/Account.action?signoff=']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>a[href='/actions/Account.action?signoff=']</value>
+      <webElementGuid>63b51cb3-a969-4327-9a16-bd5a7cdcb98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space()='Sign Out']</value>
+      <webElementGuid>e79ddd36-284d-4f22-b825-ab00bfc3fe97</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

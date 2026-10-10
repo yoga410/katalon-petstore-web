@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>signIn</name>
+   <tag></tag>
+   <elementGuidId>4a9b4abd-2b31-4d8f-832a-a67de1625f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>a[href*='signonForm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[href='/actions/Account.action?signonForm=']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>a[href*='signonForm']</value>
+      <webElementGuid>a36d8292-d0a2-4879-b350-ccdc5e80c013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signon</value>
+      <webElementGuid>cd4acc8f-1408-45ac-9809-54695225a049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>272c255c-5865-4a20-a133-9ec42d7cc3d1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

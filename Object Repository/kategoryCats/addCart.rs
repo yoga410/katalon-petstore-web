@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addCart</name>
+   <tag></tag>
+   <elementGuidId>c8088e87-a616-434c-ad09-8d63105d6fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.Button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.Button</value>
+      <webElementGuid>b0f5bfba-5abe-4d11-bb2b-8a11da84ea4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space()='Add to Cart']</value>
+      <webElementGuid>bb33e0eb-9b67-4b99-8d95-7deb1a76c3fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>updateCart</name>
+   <tag></tag>
+   <elementGuidId>0b9ae42d-945a-40c9-8282-2627931425b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input[value='Update Cart']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input[value='Update Cart']</value>
+      <webElementGuid>fd7e0ba3-3dd6-4981-b156-d672192ffb48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='updateCartQuantities']</value>
+      <webElementGuid>5926a7f5-c46c-4101-887c-137438665c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>updateCartQuantities</value>
+      <webElementGuid>0c1bbae6-9e02-4ee3-9f68-6b1a8eef9467</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
