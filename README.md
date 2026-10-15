@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐾 Katalon Studio Web Automation - JPetStore
 
 Repository ini berisi skrip automated testing untuk aplikasi web **JPetStore** menggunakan **Katalon Studio**. Proyek ini disusun sebagai pemenuhan **Final Project Software Quality Assurance / Test Automation**.
@@ -87,3 +88,6 @@ katalon-petstore-web/
 └── README.md                   # Dokumentasi proyek
 
   
+=======
+# katalon-petstore-web
+>>>>>>> ac63074bf1fae88629cf9383f871c8c0dcb71467
